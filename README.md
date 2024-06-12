@@ -16,7 +16,7 @@
 Чтобы установить библиотеку `FindCurve`, клонируйте репозиторий и включите исходные файлы в ваш проект.
 
 ```bash
-git clone https://github.com/your-repo/findcurve.git
+[git clone https://github.com/your-repo/findcurve.git](https://github.com/TrewCar/FindCurve.git)
 ```
 
 ## Использование
